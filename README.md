@@ -1,4 +1,4 @@
-# butelka
+# ĆWICZENIE JAVA
 package cwiczeniebutelka;
 
 public class butelka {
